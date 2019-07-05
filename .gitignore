@@ -1,0 +1,6 @@
+flaskblog/static/profile_pics/*
+!flaskblog/static/profile_pics/default.jpg
+.vscode/
+flaskblog/__pycache__/
+*.pyc
+*.pyo
