@@ -1,6 +1,9 @@
 # Flask-Blog
-A complete social blog built in flask
-![all text](https://github.com/MohamedAliRashad/Flask-Blog/blob/master/Demo.png)
+A complete social blog built in flask.
+
+<p align="left">
+  <img src="https://github.com/MohamedAliRashad/Flask-Blog/blob/master/Demo.png" width="700" title="Flask Blog">
+</p>
 
 ## Dependencies 
 ```
